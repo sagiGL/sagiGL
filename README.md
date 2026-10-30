@@ -1,27 +1,32 @@
 <div align="center">
 
-<a href="https://sioma.ai">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=F97316&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Sagi+Gleizer;Founder+of+Sioma;Fullstack+engineer+since+2015;AI+agents+on+your+company's+systems" alt="Hi, I'm Sagi Gleizer" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Sagi+Gleizer;Founder+%C2%B7+CPO+%C2%B7+Tech+lead;Taking+products+from+0+to+1;Building+agentic+systems" alt="Hi, I'm Sagi Gleizer" />
 
-<a href="https://sioma.ai"><img src="https://img.shields.io/badge/Founder-sioma.ai-F97316?style=for-the-badge&labelColor=111" alt="Founder, sioma.ai" /></a>
-<a href="https://github.com/sioma-ai"><img src="https://img.shields.io/badge/GitHub-sioma--ai-111?style=for-the-badge&logo=github&logoColor=white" alt="sioma-ai on GitHub" /></a>
-<img src="https://img.shields.io/badge/Shipping_since-2015-111?style=for-the-badge" alt="Shipping since 2015" />
+<a href="https://sioma.ai"><img src="https://img.shields.io/badge/Founder-Sioma-F97316?style=for-the-badge&labelColor=111" alt="Founder, Sioma" /></a>
+<a href="https://onui.ai"><img src="https://img.shields.io/badge/Founder-onUI-F97316?style=for-the-badge&labelColor=111" alt="Founder, onUI" /></a>
+<img src="https://img.shields.io/badge/Co--founder_%26_CPO-Leadion-111?style=for-the-badge" alt="Co-founder and CPO, Leadion" />
+<img src="https://img.shields.io/badge/2_exits-as_tech_lead-111?style=for-the-badge" alt="Two exits as tech lead" />
 
 </div>
 
 ---
 
-### What I build
+I build and lead development teams and take products from 0 to 1. I co-founded a funded gaming startup that made money, led engineering at two startups that were acquired, and for the last two years I've been building agentic systems.
 
-**[Sioma](https://sioma.ai)** maps a company's systems (CRM, mail, tickets, docs, chat) into one graph of entities, links and flows. AI agents work on that graph; people approve what they do.
+### Journey
 
-- **The ontology engine.** Typed entities and links over live sources, with every write proposed, reviewed and on the record
-- **The agents.** One job each, every case proven before it ships, on models picked by measurement
-- **The client and its design system.** React, TypeScript and one canvas map that draws a company of thousands
-- **[claude-plugins](https://github.com/sioma-ai/claude-plugins).** Plugs Claude Code into your company's graph
+| | | |
+|:--|:--|:--|
+| **2026** | **[Sioma](https://sioma.ai)** · Founder | A company of people and AI agents, on one screen |
+| **2025** | **[onUI](https://onui.ai)** · Founder | A deterministic model lab. Built **Neural**, an engine that turns agent token cost into outcome pricing |
+| **2022** | **Wib** · Front tech lead | API security. Acquired by **F5** |
+| **2021** | **RightBound** · Tech lead | Sales automation. Acquired |
+| **2019** | **Leadion** · Co-founder & CPO | A profitable gaming startup funded by **Intel**, **Overwolf** and **Cactus Capital**. Shipped **LoR Guardian** and **Tick** |
+| **2019** | **ZoomInfo** · Full-stack | |
+| **2018** | **TestCraft** · DevOps & full-stack | |
+| **2013** | **Robotics** · Teacher, entrepreneur, inventor | Where it started |
 
-Before Sioma I spent ten years building products for startups as a fullstack freelancer. BSc Computer Science, Reichman University (IDC Herzliya).
+BSc Computer Science, Reichman University (IDC Herzliya).
 
 ### Stack
 
